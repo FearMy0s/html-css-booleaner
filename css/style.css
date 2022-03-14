@@ -1,3 +1,7 @@
 header{
     background-image: url(/img/pattern.png);
+    width: 250 px;
+}
+body{
+    color: blueviolet;
 }
